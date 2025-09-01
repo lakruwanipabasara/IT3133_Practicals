@@ -1,4 +1,4 @@
-//6) create a function to print elements from multi dimensional array
+//6) Create a function to print elements from multi dimensional array.
 
 let matrix = [
   [1, 2, 3],
